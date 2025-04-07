@@ -27,6 +27,7 @@ A standard template for pull requests, ensuring all necessary information is pro
 Defines code ownership and review responsibilities across repositories for better collaboration and code quality.
 
 ---
+:-->
 
 ## 🚀 Purpose
 
@@ -56,7 +57,6 @@ We welcome contributions to improve our community standards. Please submit a pul
 This repository is governed by the organization's main license. Please refer to the license file in your specific project repository.
 
 ---
-:-->
 
 ## Quick Links
 
@@ -69,11 +69,11 @@ This repository is governed by the organization's main license. Please refer to 
 <a href="https://www.digitechpoint.com">
   <img align="left" alt="digitechpoint's website" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/safari.svg" />
 </a>
+<br clear="all" />
+
 <!-- 
 Logo Source: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ 
 :-->
-
----
 
 ---
 
