@@ -294,4 +294,7 @@ We create experiences that are inevitable: the right color, the right space, the
 
 </div>
 
+---
+---
 
+<img src="https://digitechpoint.github.io/logo/DTP%20White.svg"/>
